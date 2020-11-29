@@ -80,6 +80,8 @@ html, body {
     margin-bottom: 10px;
 	border: 0;
 	text-align: center;
+    width: 1000px;
+    height:800px;
 }
 
 h1 {
