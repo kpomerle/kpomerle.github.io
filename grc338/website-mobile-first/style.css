@@ -116,7 +116,7 @@ p.slogan {
 	font-size: 4em;
 	font-family: serif;
 	font-style: italic;
-	margin: ____ ____ ____;
+	margin: 0 0 3em;
 	color: rgb(256, 256, 256);	
 	}
 	
@@ -126,7 +126,7 @@ footer {
   width: 100%;
   height: 3rem; 
   box-sizing: border-box;
-  padding: ____ ____;
+  padding: 0 0;
   background: rgb(255, 255, 0);
 }
 
